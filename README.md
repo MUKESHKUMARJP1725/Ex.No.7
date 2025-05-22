@@ -1,4 +1,4 @@
-## Ex periment No.7
+## Experiment No.7
 ## Exploration of Prompting Techniques for Audio Generation 
  
 ### NAME :MUKESH KUMAR J.P 
